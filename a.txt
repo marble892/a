@@ -1,0 +1,2 @@
+wss://mc.tail9b689d.ts.net/
+https://cdn.jsdelivr.net/gh/marble892/eaglercraft-jsdelivr@latest/index.svg
